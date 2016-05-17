@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="primary" type="color">#444444</item>
+    <item name="primary_dark" type="color">#222222</item>
+    <color name="transparent">#00000000</color>
+    <string name="app_name">FBReader</string>
+    <string name="empty_string"/>
+    <style name="FBReader.Activity" parent="android:Theme">
+  </style>
+    <style name="FBReader.Activity.NoActionBar" parent="android:Theme">
+  </style>
+    <style name="FBReader.Dialog" parent="android:Theme.Dialog">
+	</style>
+    <style name="FBReader.Transparent" parent="android:Theme.Translucent.NoTitleBar">
+    <item name="android:windowBackground">@color/transparent</item>
+  </style>
+</resources>
