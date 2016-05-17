@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/res/merged/debug/layout-large-v4/book_popup.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/res/layout-large-v4/book_popup.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/res/merged/debug/layout-large-v4/book_popup_night.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/res/layout-large-v4/book_popup_night.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReaderFastIntegration/build/intermediates/res/merged/debug/layout-large-v4/book_popup.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReaderFastIntegration/build/intermediates/exploded-aar/fBReaderDemo/fBReader/unspecified/res/layout-large-v4/book_popup.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReaderFastIntegration/build/intermediates/res/merged/debug/layout-large-v4/book_popup_night.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReaderFastIntegration/build/intermediates/exploded-aar/fBReaderDemo/fBReader/unspecified/res/layout-large-v4/book_popup_night.xml"
+    }
+]
