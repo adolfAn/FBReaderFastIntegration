@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReader/build/intermediates/res/merged/release/layout-land/ambilwarna_dialog.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReader/build/intermediates/exploded-aar/fBReaderDemo/ambilWarna/unspecified/res/layout-land/ambilwarna_dialog.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/fBReader/build/intermediates/res/merged/release/layout-land/ambilwarna_dialog.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/fBReader/build/intermediates/exploded-aar/fBReaderDemo/ambilWarna/unspecified/res/layout-land/ambilwarna_dialog.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReader/build/intermediates/res/merged/release/layout-land/ambilwarna_dialog.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReader/build/intermediates/exploded-aar/FBReaderFastIntegration/ambilWarna/unspecified/res/layout-land/ambilwarna_dialog.xml"
+    }
+]

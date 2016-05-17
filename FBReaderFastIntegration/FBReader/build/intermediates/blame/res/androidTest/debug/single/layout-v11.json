@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReader/build/intermediates/res/merged/androidTest/debug/layout-v11/afc_file_chooser.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReader/build/intermediates/exploded-aar/fBReaderDemo/code/unspecified/res/layout-v11/afc_file_chooser.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReader/build/intermediates/res/merged/androidTest/debug/layout-v11/afc_settings_sort_view.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReader/build/intermediates/exploded-aar/fBReaderDemo/code/unspecified/res/layout-v11/afc_settings_sort_view.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReader/build/intermediates/res/merged/androidTest/debug/layout-v11/afc_file_chooser.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReader/build/intermediates/exploded-aar/FBReaderFastIntegration/code/unspecified/res/layout-v11/afc_file_chooser.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReader/build/intermediates/res/merged/androidTest/debug/layout-v11/afc_settings_sort_view.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReader/build/intermediates/exploded-aar/FBReaderFastIntegration/code/unspecified/res/layout-v11/afc_settings_sort_view.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/fBReader/build/intermediates/res/merged/androidTest/debug/layout-v11/afc_settings_sort_view.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/fBReader/build/intermediates/exploded-aar/fBReaderDemo/code/unspecified/res/layout-v11/afc_settings_sort_view.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/fBReader/build/intermediates/res/merged/androidTest/debug/layout-v11/afc_file_chooser.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/fBReader/build/intermediates/exploded-aar/fBReaderDemo/code/unspecified/res/layout-v11/afc_file_chooser.xml"
+    }
+]

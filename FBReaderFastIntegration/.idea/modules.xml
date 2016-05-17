@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FBReader/FBReader.iml" filepath="$PROJECT_DIR$/FBReader/FBReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FBReaderFastIntegration.iml" filepath="$PROJECT_DIR$/FBReaderFastIntegration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FBReaderFastIntegration/FBReaderFastIntegration-FBReaderFastIntegration.iml" filepath="$PROJECT_DIR$/FBReaderFastIntegration/FBReaderFastIntegration-FBReaderFastIntegration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ambilWarna/ambilWarna.iml" filepath="$PROJECT_DIR$/ambilWarna/ambilWarna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/code.iml" filepath="$PROJECT_DIR$/code/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/superToasts/superToasts.iml" filepath="$PROJECT_DIR$/superToasts/superToasts.iml" />
+    </modules>
+  </component>
+</project>

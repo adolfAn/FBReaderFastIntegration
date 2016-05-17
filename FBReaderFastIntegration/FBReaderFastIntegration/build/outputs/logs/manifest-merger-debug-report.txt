@@ -1,0 +1,754 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:8:5-11:41
+MERGED from [FBReaderFastIntegration:ambilWarna:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/ambilWarna/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [FBReaderFastIntegration:superToasts:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/superToasts/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [FBReaderFastIntegration:code:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/code/unspecified/AndroidManifest.xml:13:5-15:41
+MERGED from [FBReaderFastIntegration:library:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/library/unspecified/AndroidManifest.xml:7:5-9:41
+	android:maxSdkVersion
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:9:9-35
+	android:targetSdkVersion
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml
+application
+ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:11:5-26:19
+MERGED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:26:5-682:19
+MERGED from [FBReaderFastIntegration:ambilWarna:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/ambilWarna/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [FBReaderFastIntegration:superToasts:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/superToasts/unspecified/AndroidManifest.xml:11:5-20
+MERGED from [FBReaderFastIntegration:library:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/library/unspecified/AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:13:9-42
+	android:logo
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:15:9-45
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:27:9-77
+activity#com.example.fbreaderdemo.MainActivity
+ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:18:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/src/main/AndroidManifest.xml:23:27-74
+supports-screens
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:13:5-18:40
+	android:largeScreens
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:15:9-36
+	android:smallScreens
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:17:9-36
+	android:normalScreens
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:16:9-37
+	android:xlargeScreens
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:18:9-37
+	android:anyDensity
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:14:9-34
+uses-permission#android.permission.INTERNET
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:21:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:23:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:24:22-76
+activity#org.geometerplus.android.fbreader.error.BookReadingErrorActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:31:9-43:20
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:34:13-37
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:33:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:35:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:32:13-92
+intent-filter#android.fbreader.action.ERROR+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:36:13-42:29
+action#android.fbreader.action.ERROR
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:37:17-72
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:37:25-69
+category#android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:39:27-73
+data
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:41:17-63
+	android:scheme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:41:23-60
+activity#org.geometerplus.zlibrary.ui.android.error.BugReportActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:44:9-50:56
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:49:13-37
+	android:label
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:48:13-43
+	android:exported
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:47:13-37
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:46:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:50:13-53
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:45:13-88
+activity#org.geometerplus.android.fbreader.crash.FixBooksDirectoryActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:51:9-64:20
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:55:13-37
+	android:exported
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:54:13-37
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:53:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:56:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:52:13-93
+intent-filter#android.fbreader.action.CRASH+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:57:13-63:29
+action#android.fbreader.action.CRASH
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:58:17-72
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:58:25-69
+activity#org.geometerplus.android.fbreader.crash.MissingNativeLibraryActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:65:9-85:20
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:69:13-37
+	android:exported
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:68:13-37
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:67:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:70:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:66:13-96
+service#org.geometerplus.android.fbreader.api.ApiService
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:87:9-95:19
+	android:launchMode
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:89:13-44
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:88:13-76
+intent-filter#android.fbreader.action.API+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:90:13-94:29
+action#android.fbreader.action.API
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:91:17-70
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:91:25-67
+activity#org.geometerplus.android.fbreader.FBReader
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:97:9-220:20
+	android:label
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:101:13-45
+	android:launchMode
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:102:13-44
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:99:13-74
+	android:icon
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:100:13-46
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:103:13-53
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:98:13-70
+intent-filter#android.fbreader.action.VIEW+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:104:13-108:29
+action#android.fbreader.action.VIEW
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:105:17-71
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:105:25-68
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:116:13-122:29
+action#android.intent.action.VIEW
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:117:17-69
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:117:25-66
+intent-filter#android.fbreader.action.PLUGIN+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:123:13-127:29
+action#android.fbreader.action.PLUGIN
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:124:17-73
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:124:25-70
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:178:13-201:29
+category#android.intent.category.BROWSABLE
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:182:17-78
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:182:27-75
+intent-filter#android.intent.action.SEARCH
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:202:13-204:29
+action#android.intent.action.SEARCH
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:203:17-71
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:203:25-68
+meta-data#android.app.searchable
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:206:13-208:54
+	android:resource
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:208:17-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:207:17-54
+intent-filter#android.fbreader.action.CLOSE+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:210:13-214:29
+action#android.fbreader.action.CLOSE
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:211:17-72
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:211:25-69
+intent-filter#android.fbreader.action.PLUGIN_CRASH+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:215:13-219:29
+action#android.fbreader.action.PLUGIN_CRASH
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:216:17-79
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:216:25-76
+activity#org.geometerplus.android.fbreader.dict.DictionaryNotInstalledActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:221:9-225:54
+	android:exported
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:224:13-37
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:223:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:225:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:222:13-97
+activity#org.geometerplus.android.fbreader.CancelActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:226:9-235:20
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:228:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:229:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:227:13-76
+intent-filter#android.fbreader.action.CANCEL_MENU+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:230:13-234:29
+action#android.fbreader.action.CANCEL_MENU
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:231:17-78
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:231:25-75
+activity#org.geometerplus.android.fbreader.PluginListActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:236:9-239:54
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:238:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:239:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:237:13-80
+activity#org.geometerplus.android.fbreader.bookmark.BookmarksActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:240:9-259:20
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:244:13-41
+	android:launchMode
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:243:13-44
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:242:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:245:13-65
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:241:13-88
+intent-filter#android.fbreader.action.BOOKMARKS+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:254:13-258:29
+action#android.fbreader.action.BOOKMARKS
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:255:17-76
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:255:25-73
+activity#org.geometerplus.android.fbreader.bookmark.EditBookmarkActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:260:9-269:20
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:262:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:263:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:261:13-91
+intent-filter#android.fbreader.action.EDIT_BOOKMARK+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:264:13-268:29
+action#android.fbreader.action.EDIT_BOOKMARK
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:265:17-80
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:265:25-77
+activity#org.geometerplus.android.fbreader.bookmark.EditStyleActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:270:9-279:20
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:272:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:273:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:271:13-88
+intent-filter#android.fbreader.action.EDIT_STYLES+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:274:13-278:29
+action#android.fbreader.action.EDIT_STYLES
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:275:17-78
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:275:25-75
+activity#org.geometerplus.android.fbreader.image.ImageViewActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:280:9-284:56
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:283:13-41
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:282:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:284:13-53
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:281:13-85
+service#org.geometerplus.android.fbreader.libraryService.LibraryService
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:286:9-293:19
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:289:13-46
+	android:launchMode
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:288:13-44
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:287:13-91
+intent-filter#android.fbreader.action.LIBRARY_SERVICE
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:290:13-292:29
+action#android.fbreader.action.LIBRARY_SERVICE
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:291:17-82
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:291:25-79
+service#org.geometerplus.android.fbreader.config.ConfigService
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:294:9-301:19
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:297:13-45
+	android:launchMode
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:296:13-44
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:295:13-82
+intent-filter#android.fbreader.action.CONFIG_SERVICE
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:298:13-300:29
+action#android.fbreader.action.CONFIG_SERVICE
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:299:17-81
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:299:25-78
+service#org.geometerplus.android.fbreader.sync.SyncService
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:302:9-312:19
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:305:13-44
+	android:launchMode
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:304:13-44
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:303:13-78
+intent-filter#android.fbreader.action.sync.START
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:306:13-308:29
+action#android.fbreader.action.sync.START
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:307:17-77
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:307:25-74
+intent-filter#android.fbreader.action.sync.QUICK_SYNC
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:309:13-311:29
+action#android.fbreader.action.sync.QUICK_SYNC
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:310:17-82
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:310:25-79
+activity#org.geometerplus.android.fbreader.library.BookInfoActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:314:9-324:20
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:317:13-39
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:316:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:318:13-53
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:315:13-86
+intent-filter#android.fbreader.action.BOOK_INFO+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:319:13-323:29
+action#android.fbreader.action.BOOK_INFO
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:320:17-76
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:320:25-73
+activity#org.geometerplus.android.fbreader.library.LibrarySearchActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:325:9-336:20
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:327:13-39
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:328:13-59
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:326:13-91
+activity#org.geometerplus.android.fbreader.library.LibraryActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:337:9-352:20
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:341:13-39
+	android:launchMode
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:340:13-44
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:339:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:342:13-53
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:338:13-85
+meta-data#android.app.default_searchable
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:343:13-345:99
+	android:value
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:345:17-96
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:344:17-62
+intent-filter#android.fbreader.action.LIBRARY+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:347:13-351:29
+action#android.fbreader.action.LIBRARY
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:348:17-74
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:348:25-71
+activity#org.geometerplus.android.fbreader.TOCActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:353:9-356:56
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:355:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:356:13-53
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:354:13-73
+activity#org.geometerplus.android.fbreader.preferences.PreferenceActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:357:9-374:20
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:360:13-43
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:359:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:361:13-53
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:358:13-92
+intent-filter#android.fbreader.action.PREFERENCES+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:369:13-373:29
+action#android.fbreader.action.PREFERENCES
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:370:17-78
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:370:25-75
+activity#org.geometerplus.android.fbreader.preferences.EditBookInfoActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:375:9-379:56
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:378:13-39
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:377:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:379:13-53
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:376:13-94
+activity#org.geometerplus.android.fbreader.sync.MissingBookActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:380:9-384:54
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:383:13-46
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:382:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:384:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:381:13-86
+activity#org.geometerplus.android.fbreader.network.BookDownloader
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:385:9-466:20
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:387:13-46
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:388:13-59
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:386:13-84
+service#org.geometerplus.android.fbreader.network.BookDownloaderService
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:468:9-472:49
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:472:13-46
+	android:launchMode
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:471:13-44
+	android:exported
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:470:13-37
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:469:13-91
+activity#org.geometerplus.android.fbreader.network.NetworkSearchActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:474:9-485:20
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:476:13-46
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:477:13-59
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:475:13-91
+activity#org.geometerplus.android.fbreader.network.auth.WebAuthorisationScreen
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:486:9-491:56
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:490:13-46
+	android:exported
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:489:13-37
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:488:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:491:13-53
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:487:13-97
+activity#org.geometerplus.android.fbreader.network.NetworkLibraryPrimaryActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:492:9-519:20
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:496:13-46
+	android:launchMode
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:495:13-44
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:494:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:497:13-53
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:493:13-99
+intent-filter#android.fbreader.action.OPEN_NETWORK_CATALOG+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:502:13-513:29
+action#android.fbreader.action.OPEN_NETWORK_CATALOG
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:503:17-87
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:503:25-84
+intent-filter#android.fbreader.action.NETWORK_LIBRARY+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:514:13-518:29
+action#android.fbreader.action.NETWORK_LIBRARY
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:515:17-82
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:515:25-79
+activity#org.geometerplus.android.fbreader.network.NetworkLibrarySecondaryActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:520:9-524:56
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:523:13-46
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:522:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:524:13-53
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:521:13-101
+activity#org.geometerplus.android.fbreader.network.AuthenticationActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:525:9-529:54
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:528:13-46
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:527:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:529:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:526:13-92
+activity#org.geometerplus.android.fbreader.network.BuyBooksActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:530:9-534:54
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:533:13-46
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:532:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:534:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:531:13-86
+activity#org.geometerplus.android.fbreader.network.AddCatalogMenuActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:535:9-539:54
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:538:13-46
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:537:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:539:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:536:13-92
+activity#org.geometerplus.android.fbreader.network.AddCustomCatalogActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:540:9-583:20
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:543:13-46
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:542:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:544:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:541:13-94
+intent-filter#android.fbreader.action.ADD_OPDS_CATALOG+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:545:13-554:29
+action#android.fbreader.action.ADD_OPDS_CATALOG
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:546:17-83
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:546:25-80
+intent-filter#android.fbreader.action.ADD_OPDS_CATALOG_URL+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:565:13-573:29
+action#android.fbreader.action.ADD_OPDS_CATALOG_URL
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:566:17-87
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:566:25-84
+activity#org.geometerplus.android.fbreader.network.AuthorisationMenuActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:584:9-588:54
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:587:13-46
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:586:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:588:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:585:13-95
+activity#org.geometerplus.android.fbreader.network.litres.UserRegistrationActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:589:9-593:54
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:592:13-46
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:591:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:593:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:590:13-101
+activity#org.geometerplus.android.fbreader.network.litres.AutoRegistrationActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:594:9-598:54
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:597:13-46
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:596:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:598:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:595:13-101
+activity#org.geometerplus.android.fbreader.network.TopupMenuActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:599:9-603:54
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:602:13-46
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:601:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:603:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:600:13-87
+activity#org.geometerplus.android.fbreader.network.NetworkBookInfoActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:604:9-618:20
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:607:13-46
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:606:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:608:13-53
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:605:13-93
+activity#org.geometerplus.android.fbreader.network.CatalogManagerActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:619:9-622:56
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:621:13-46
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:622:13-53
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:620:13-92
+receiver#org.geometerplus.android.fbreader.network.ListenerCallback
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:624:9-632:20
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:626:13-46
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:625:13-86
+intent-filter#android.fbreader.action.network.SIGNIN+android.intent.category.DEFAULT
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:627:13-631:29
+action#android.fbreader.action.network.SIGNIN
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:628:17-81
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:628:25-78
+activity#org.geometerplus.android.fbreader.tips.TipsActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:634:9-637:54
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:636:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:637:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:635:13-79
+activity#com.paragon.dictionary.fbreader.OpenDictionaryActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:638:9-641:59
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:640:13-74
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:641:13-56
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:639:13-82
+service#org.geometerplus.android.fbreader.httpd.DataService
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:643:9-647:46
+	android:process
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:647:13-43
+	android:launchMode
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:646:13-44
+	android:exported
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:645:13-37
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:644:13-79
+service#group.pals.android.lib.ui.filechooser.services.LocalFileProvider
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:648:9-650:40
+	android:exported
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:650:13-37
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:649:13-92
+activity#group.pals.android.lib.ui.filechooser.FileChooserActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:652:9-656:54
+	android:exported
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:655:13-37
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:654:13-83
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:656:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:653:13-85
+activity#org.geometerplus.android.fbreader.preferences.background.Chooser
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:657:9-661:54
+	android:exported
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:660:13-37
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:659:13-83
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:661:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:658:13-92
+activity#org.geometerplus.android.fbreader.preferences.background.PredefinedImages
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:662:9-666:54
+	android:exported
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:665:13-37
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:664:13-83
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:666:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:663:13-101
+activity#org.geometerplus.android.util.FolderListDialogActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:667:9-671:54
+	android:exported
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:670:13-37
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:669:13-83
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:671:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:668:13-82
+activity#org.geometerplus.android.util.EditTagsDialogActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:672:9-676:54
+	android:exported
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:675:13-37
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:674:13-83
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:676:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:673:13-80
+activity#org.geometerplus.android.util.EditAuthorsDialogActivity
+ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:677:9-681:54
+	android:exported
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:680:13-37
+	android:configChanges
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:679:13-83
+	android:theme
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:681:13-51
+	android:name
+		ADDED from [FBReaderFastIntegration:FBReader:unspecified] /Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/AndroidManifest.xml:678:13-83

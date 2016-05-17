@@ -1,0 +1,180 @@
+[
+    {
+        "outputFile": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 9,
+                    "endOffset": 125
+                },
+                "from": {
+                    "file": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 3,
+                        "endColumn": 9,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 130,
+                    "endLine": 5,
+                    "endColumn": 9,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endLine": 5,
+                        "endColumn": 9,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endLine": 7,
+                    "endColumn": 9,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/FBReader/unspecified/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endLine": 7,
+                        "endColumn": 9,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1265
+                },
+                "from": {
+                    "file": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReaderFastIntegration/build/intermediates/exploded-aar/FBReaderFastIntegration/code/unspecified/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1011
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReaderFastIntegration/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 9,
+                    "endOffset": 125
+                },
+                "from": {
+                    "file": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReaderFastIntegration/build/intermediates/exploded-aar/fBReaderDemo/fBReader/unspecified/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 3,
+                        "endColumn": 9,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 130,
+                    "endLine": 5,
+                    "endColumn": 9,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReaderFastIntegration/build/intermediates/exploded-aar/fBReaderDemo/fBReader/unspecified/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endLine": 5,
+                        "endColumn": 9,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endLine": 7,
+                    "endColumn": 9,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReaderFastIntegration/build/intermediates/exploded-aar/fBReaderDemo/fBReader/unspecified/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endLine": 7,
+                        "endColumn": 9,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1265
+                },
+                "from": {
+                    "file": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReaderFastIntegration/build/intermediates/exploded-aar/fBReaderDemo/code/unspecified/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1011
+                    }
+                }
+            }
+        ]
+    }
+]

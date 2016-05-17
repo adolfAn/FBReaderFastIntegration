@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/code/build/intermediates/res/merged/androidTest/debug/layout/afc_settings_sort_view.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/code/build/intermediates/bundles/debug/res/layout/afc_settings_sort_view.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/code/build/intermediates/res/merged/androidTest/debug/layout/afc_file_chooser.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/code/build/intermediates/bundles/debug/res/layout/afc_file_chooser.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/code/build/intermediates/res/merged/androidTest/debug/layout/afc_button_location.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/code/build/intermediates/bundles/debug/res/layout/afc_button_location.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/code/build/intermediates/res/merged/androidTest/debug/layout/afc_file_chooser.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/code/build/intermediates/bundles/debug/res/layout/afc_file_chooser.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/code/build/intermediates/res/merged/androidTest/debug/layout/afc_simple_text_input_view.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/code/build/intermediates/bundles/debug/res/layout/afc_simple_text_input_view.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/code/build/intermediates/res/merged/androidTest/debug/layout/afc_context_menu_view.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/code/build/intermediates/bundles/debug/res/layout/afc_context_menu_view.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/code/build/intermediates/res/merged/androidTest/debug/layout/afc_context_menu_tiem.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/code/build/intermediates/bundles/debug/res/layout/afc_context_menu_tiem.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/code/build/intermediates/res/merged/androidTest/debug/layout/afc_context_menu_tiem.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/code/build/intermediates/bundles/debug/res/layout/afc_context_menu_tiem.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/code/build/intermediates/res/merged/androidTest/debug/layout/afc_file_item.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/code/build/intermediates/bundles/debug/res/layout/afc_file_item.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/code/build/intermediates/res/merged/androidTest/debug/layout/afc_simple_text_input_view.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/code/build/intermediates/bundles/debug/res/layout/afc_simple_text_input_view.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/code/build/intermediates/res/merged/androidTest/debug/layout/afc_button_location.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/code/build/intermediates/bundles/debug/res/layout/afc_button_location.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/code/build/intermediates/res/merged/androidTest/debug/layout/afc_file_item.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/code/build/intermediates/bundles/debug/res/layout/afc_file_item.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/code/build/intermediates/res/merged/androidTest/debug/layout/afc_gridview_files.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/code/build/intermediates/bundles/debug/res/layout/afc_gridview_files.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/code/build/intermediates/res/merged/androidTest/debug/layout/afc_gridview_files.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/code/build/intermediates/bundles/debug/res/layout/afc_gridview_files.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/code/build/intermediates/res/merged/androidTest/debug/layout/afc_settings_sort_view.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/code/build/intermediates/bundles/debug/res/layout/afc_settings_sort_view.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/code/build/intermediates/res/merged/androidTest/debug/layout/afc_context_menu_view.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/code/build/intermediates/bundles/debug/res/layout/afc_context_menu_view.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/code/build/intermediates/res/merged/androidTest/debug/layout/afc_listview_files.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/code/build/intermediates/bundles/debug/res/layout/afc_listview_files.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/code/build/intermediates/res/merged/androidTest/debug/layout/afc_listview_files.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/code/build/intermediates/bundles/debug/res/layout/afc_listview_files.xml"
+    }
+]

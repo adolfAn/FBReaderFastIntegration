@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReader/build/intermediates/res/merged/androidTest/debug/xml/searchable.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReader/build/intermediates/bundles/debug/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReader/build/intermediates/res/merged/androidTest/debug/xml/searchable.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReader/build/intermediates/bundles/debug/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/fBReader/build/intermediates/res/merged/androidTest/debug/xml/searchable.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/fBReader/build/intermediates/bundles/debug/res/xml/searchable.xml"
+    }
+]

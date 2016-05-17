@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReader/build/intermediates/res/merged/androidTest/debug/layout-large-v4/book_popup.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReader/build/intermediates/bundles/debug/res/layout-large-v4/book_popup.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/fBReader/build/intermediates/res/merged/androidTest/debug/layout-large-v4/book_popup.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/fBReader/build/intermediates/bundles/debug/res/layout-large-v4/book_popup.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReader/build/intermediates/res/merged/androidTest/debug/layout-large-v4/book_popup_night.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/FBReader/build/intermediates/bundles/debug/res/layout-large-v4/book_popup_night.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReader/build/intermediates/res/merged/androidTest/debug/layout-large-v4/book_popup_night.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReader/build/intermediates/bundles/debug/res/layout-large-v4/book_popup_night.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/fBReader/build/intermediates/res/merged/androidTest/debug/layout-large-v4/book_popup_night.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/fBReaderDemo/fBReader/build/intermediates/bundles/debug/res/layout-large-v4/book_popup_night.xml"
+    },
+    {
+        "merged": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReader/build/intermediates/res/merged/androidTest/debug/layout-large-v4/book_popup.xml",
+        "source": "/Users/ahq/workspaces/android_studio_workspaces/FBReaderFastIntegration/FBReaderFastIntegration/FBReader/build/intermediates/bundles/debug/res/layout-large-v4/book_popup.xml"
+    }
+]
